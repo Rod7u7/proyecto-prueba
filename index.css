@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+.container{
+    background: url("corazones-10.jpg");
+    background-size: 100%;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+h1{
+    padding: 10%;
+}
+
+button{
+    font-size: x-large;
+    padding: 0.75em;
+}
+
+#si{
+    transform: translate(-100%,0%);
+}
+
+
+#no{
+    position: absolute;
+
+}
